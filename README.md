@@ -4,7 +4,7 @@ PolicyLens is an AI-powered web application designed to analyze complex policy d
 
 It is built to work with **any policy or structured document**, making it a flexible tool for policy analysis, research, and decision-making.
 
----
+
 
 ##  Features
 
@@ -37,7 +37,7 @@ It is built to work with **any policy or structured document**, making it a flex
 - Template-based generation if API is unavailable
 - Ensures system reliability
 
----
+
 
 ## System Workflow
 
@@ -49,7 +49,7 @@ Document Upload
 → Draft Generation  
 → Output
 
----
+
 
 ## Technologies Used
 
@@ -57,7 +57,7 @@ Document Upload
 - **NLP:** Scikit-learn (TF-IDF, Cosine Similarity)
 - **PDF Processing:** PyPDF2
 - **Frontend:** HTML, CSS, JavaScript
-- **AI Integration:** Claude API (Anthropic)
 
----
+
+
 
